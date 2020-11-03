@@ -11,7 +11,7 @@ div {
 }
 
 #launchForm {
-    background-color: #ECF0F1;
+    background-color:#6a15b9;
     text-align: center;
     margin: auto;
     width: 25%;
@@ -20,7 +20,7 @@ div {
 }
 
 #launchStatusCheck {
-    background-color: #ECF0F1;
+    background-color:#0b4a74;
     text-align: center;
     margin: 50px auto;
     width: 50%;
@@ -43,9 +43,9 @@ div {
 }
 
 button {
-    background-color: #419f6a;
+    background-color: #c911dace;
     border: none;
-    color: white;
+    color: rgb(160, 7, 7);
     border-radius: 8px;
     width: 25%;
     height: 30px;
